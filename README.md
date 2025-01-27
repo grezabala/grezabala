@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<header style="text-align: center; padding: 20px; background-color: #f4f4f9;">
+  <img src="https://img.shields.io/badge/Backend%20Developer-512BD4?style=for-the-badge&logo=code&logoColor=white" alt="Backend Developer" style="width: 150px; margin-bottom: 15px;">
+  <h1 style="color: #333;">Desarrollador Backend</h1>
+  <p style="font-size: 18px; color: #555;">
+    Soy un apasionado desarrollador backend con experiencia en la creación de soluciones robustas y escalables. Especializado en tecnologías como .NET, C#, SQL Server y la implementación de APIs Restful. Siempre enfocado en el rendimiento y la seguridad.
+  </p>
+  <p style="font-size: 18px; color: #555;">
+    Mi objetivo es brindar soluciones eficientes, integrando tecnologías modernas como Entity Framework, LINQ y JWT Tokens para garantizar un flujo de trabajo ágil y seguro.
+  </p>
+</header>
+
+
 <h2 align="center">Languages and Tools🛠:</h2>
 <p align="center">
     <code><img height="30" whith="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
