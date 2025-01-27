@@ -190,7 +190,7 @@ Here are some ideas to get you started:
   <p>&copy; Gregory Zabala Meléndez - Desarrollador Backend .NET </p>
   <p>
     Conéctate conmigo en 
-    <a href="www.linkedin.com/in/gregory-zabala-meléndez-3b66aa242" target="_blank">LinkedIn</a> o explora mis proyectos en 
+    <a href="[www.linkedin.com/in/gregory-zabala-meléndez-3b66aa242](https://www.linkedin.com/in/gregory-zabala-mel%C3%A9ndez-3b66aa242/)" target="_blank">LinkedIn</a> o explora mis proyectos en 
     <a href="https://github.com" target="_blank">GitHub</a>.
   </p>
 </footer>
