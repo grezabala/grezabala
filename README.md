@@ -1,7 +1,9 @@
 ## Hola! 👋
-<p align="center">Soy Gregory Zabala Meléndez - Desarrollador Backend .NET</p>
+<h1 align="center">
+  Gregory Zabala Meléndez - Desarrollador Backend .NET
+</h1>
 <header style="text-align: center; padding: 20px; background-color: #f4f4f9;">
-  <img src="https://img.shields.io/badge/Backend%20Developer-512BD4?style=for-the-badge&logo=code&logoColor=white" alt="Backend Developer" style="width: 150px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/Backend%20Developer-512BD4?style=for-the-badge&logo=code&logoColor=white" alt="Backend Developer" style="width: 250px; margin-bottom: 15px;">
   <h1 style="color: #333;">Desarrollador Backend</h1>
   <p style="font-size: 18px; color: #555;">
     Soy un apasionado desarrollador backend con experiencia en la creación de soluciones robustas y escalables. Especializado en tecnologías como .NET, C#, SQL Server y la implementación de APIs Restful. Siempre enfocado en el rendimiento y la seguridad.
