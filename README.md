@@ -102,6 +102,7 @@ Here are some ideas to get you started:
       <img height="20" src="https://img.shields.io/badge/ASP.NET%20API%20Web-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET API Web">
       <img height="20" src="https://img.shields.io/badge/Entity%20Framework%20Core%20.NET%207-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core .NET 7">
       <img height="20" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+     <img height="20" src="https://img.shields.io/badge/JWT%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Tokens">
     </td>
   </tr>
   <tr>
@@ -123,6 +124,7 @@ Here are some ideas to get you started:
       <img height="20" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
       <img height="20" src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="LINQ">
       <img height="20" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+     <img height="20" src="https://img.shields.io/badge/JWT%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Tokens">
     </td>
   </tr>
   <tr>
@@ -133,6 +135,19 @@ Here are some ideas to get you started:
       <img height="20" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
       <img height="20" src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="LINQ">
       <img height="20" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+      <img height="20" src="https://img.shields.io/badge/JWT%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Tokens">
+    </td>
+  </tr>
+     <tr>
+        <td>API RESTFUL (ArmadaRD)</td>
+    <td>
+      <img height="20" src="https://img.shields.io/badge/API%20RestFul-2A5DB0?style=flat-square&logo=dotnet&logoColor=white" alt="API RestFul">
+      <img height="20" src="https://img.shields.io/badge/Entity%20Framework%20Core%20.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core .NET 8">
+      <img height="20" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+      <img height="20" src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="LINQ">
+      <img height="20" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+      <img height="20" src="https://img.shields.io/badge/Procedimientos%20Almacenados-512BD4?style=flat-square&logo=microsoft&logoColor=white" alt="Procedimientos Almacenados">
+     <img height="20" src="https://img.shields.io/badge/JWT%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Tokens">
     </td>
   </tr>
   <tr>
@@ -143,6 +158,17 @@ Here are some ideas to get you started:
       <img height="20" src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework">
       <img height="20" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
       <img height="20" src="https://img.shields.io/badge/Procedimientos%20Almacenados-512BD4?style=flat-square&logo=microsoft&logoColor=white" alt="Procedimientos Almacenados">
+    </td>
+  </tr>
+     <tr>
+        <td>Integraciones con API (Consumir API)</td>
+    <td>
+      <img height="20" src="https://img.shields.io/badge/Entity%20Framework%20Core%20.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core .NET 8">
+      <img height="20" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+      <img height="20" src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="LINQ">
+      <img height="20" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+      <img height="20" src="https://img.shields.io/badge/Procedimientos%20Almacenados-512BD4?style=flat-square&logo=microsoft&logoColor=white" alt="Procedimientos Almacenados">
+     <img height="20" src="https://img.shields.io/badge/JWT%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Tokens">
     </td>
   </tr>
 </table>
