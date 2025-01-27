@@ -184,6 +184,16 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<br/>
+<hr/>
+<footer>
+  <p>&copy; Gregory Zabala Meléndez - Desarrollador Backend .NET </p>
+  <p>
+    Conéctate conmigo en 
+    <a href="www.linkedin.com/in/gregory-zabala-meléndez-3b66aa242" target="_blank">LinkedIn</a> o explora mis proyectos en 
+    <a href="https://github.com" target="_blank">GitHub</a>.
+  </p>
+</footer>
 
 
 
