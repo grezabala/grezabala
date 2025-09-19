@@ -171,6 +171,15 @@
      <img height="20" src="https://img.shields.io/badge/JWT%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Tokens">
     </td>
   </tr>
+  <tr>
+    <td>UNIQUE</td>
+    <td>
+      <img height="20" class="tech-badge" src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC">
+      <img height="20" class="tech-badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img height="20" class="tech-badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img height="20" class="tech-badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+  </tr>
 </table>
 <br/>
 <hr/>
