@@ -172,7 +172,7 @@
     </td>
   </tr>
   <tr>
-    <td>UNIQUE</td>
+    <td>UNIQUE Finance WebSite</td>
     <td>
       <img height="20" class="tech-badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img height="20" class="tech-badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
